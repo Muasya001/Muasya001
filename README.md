@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muasya001
 - 👀 I’m interested in ... machine learning
-- 🌱 PHP
+-kotlin
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...muasyapaul001@gmail.com
