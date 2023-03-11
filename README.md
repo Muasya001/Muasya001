@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Muasya001
-- 👀 I’m interested in ... machine learning
+- 👀 I’m interested in ... software development
 -kotlin
+- java
+- CSS
+- JavaScript
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any android gigs and projects
 - 📫 How to reach me ...muasyapaul001@gmail.com
 
 <!---
